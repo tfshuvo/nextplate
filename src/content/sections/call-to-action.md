@@ -9,5 +9,5 @@ button:
   enable: true
   label: Get Started Now
   link: https://github.com/zeon-studio/nextplate
-draft: true
+draft: false
 ---
