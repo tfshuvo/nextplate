@@ -223,7 +223,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ### Image
 
-![image](/images/image-placeholder.png)
+![image](/images/cover-photo.jpeg)
 
 ***
 
