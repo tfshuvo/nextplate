@@ -253,8 +253,6 @@ This is why extremely reinforced submersibles are needed.
 
 The deep ocean remains one of Earth’s last frontiers. With advances in robotics, imaging, sensors, and oceanographic science, humanity is steadily uncovering its secrets—but so much remains unknown. Every expedition reveals even stranger life, more extreme conditions, and more questions.
 
-> "The sea, once it casts its spell, holds one in its net of wonder forever." — Jacques Cousteau
+> "The sea, once it casts its spell, holds one in its net of wonder forever." — Jacques Cou
 
-***
-
-1.
+​
