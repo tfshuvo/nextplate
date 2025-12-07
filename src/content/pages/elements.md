@@ -9,7 +9,7 @@ draft: false
 
 A massive, content-rich document containing full Markdown syntax, HTML-in-MDX, JSX-like MDX components, Hugo shortcodes, diagrams, long tables, lists, footnotes, and full-language code blocks. This is a completely new, separate document from the previous ones.
 
----
+***
 
 {{< toc >}}
 
@@ -30,7 +30,7 @@ The deep ocean—mysterious, unexplored, and overwhelmingly vast—is Earth’s 
 
 Inline example: `const deepestPoint = 'Mariana Trench';`
 
----
+***
 
 # The Layers of the Ocean 🌐
 
@@ -57,7 +57,7 @@ v
 Seafloor
 ```
 
----
+***
 
 # Hydrothermal Vents 🌋
 
@@ -126,7 +126,7 @@ echo "Deploying underwater sensor network..."
 ssh ocean-lab@192.168.10.44 "sudo systemctl restart vent-scanner"
 ```
 
----
+***
 
 # Deep Sea Creatures 🐙
 
@@ -149,7 +149,7 @@ The deep ocean contains some of the strangest organisms known to science.
 | Bristle Worm  | Iridescent          | 2000–5000m  | Viral rainbow videos     |
 | Snailfish     | Bone-less structure | 7000–8500m  | Deepest-living fish      |
 
----
+***
 
 # Submarines & Exploration Tech 🤖
 
@@ -175,7 +175,7 @@ Modern deep-sea exploration requires sophisticated vehicles.
   <figcaption>Alvin, one of the most famous deep-sea submersibles.</figcaption>
 </figure>
 
----
+***
 
 # Underwater Geography 🗺️
 
@@ -197,7 +197,7 @@ Modern deep-sea exploration requires sophisticated vehicles.
 | Trench           | Deepest natural point           | Mariana Trench          | 10,984m                    |
 | Submarine Canyon | Underwater valley               | Monterey Canyon         | Comparable to Grand Canyon |
 
----
+***
 
 # Environmental Concerns 🌍
 
@@ -215,7 +215,7 @@ Modern deep-sea exploration requires sophisticated vehicles.
 The deep ocean is fragile and we risk destroying species before identifying them.
 {{< /alert >}}
 
----
+***
 
 # Mythology & Legends 🌑
 
@@ -239,15 +239,15 @@ The Kraken likely originated from sightings of giant squids.
 Some mermaid sightings may have actually been manatees or dugongs.
 {{< /details >}}
 
----
+***
 
 # Footnotes
 
-Deep ocean pressure increases **1 atmosphere every 10 meters**[^pressure].
+Deep ocean pressure increases **1 atmosphere every 10 meters**.
 
-[^pressure]: This is why extremely reinforced submersibles are needed.
+This is why extremely reinforced submersibles are needed.
 
----
+***
 
 # Conclusion 🌊✨
 
@@ -255,7 +255,7 @@ The deep ocean remains one of Earth’s last frontiers. With advances in robotic
 
 > "The sea, once it casts its spell, holds one in its net of wonder forever." — Jacques Cousteau
 
----
+***
 
 # References
 
