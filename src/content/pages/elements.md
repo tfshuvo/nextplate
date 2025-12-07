@@ -24,7 +24,7 @@ Nature is **the most beautiful** and **complex system** on Earth. It encompasses
 
 **Code block example:**
 
-```js
+```javascript
 function exploreNature(region) {
   return `Exploring ${region} is an enriching experience!`;
 }
@@ -63,7 +63,7 @@ Mountains are breathtaking and ecologically significant.
 
 **JSX Component Example:**
 
-```jsx
+```js
 const MountainCard = ({ name, height, range }) => (
   <div style={{ border: '1px solid #ccc', padding: '1rem', margin: '1rem 0' }}>
     <h3>{name}</h3>
@@ -118,7 +118,7 @@ Climate change and pollution are severely affecting ocean ecosystems.
 
 **JSX Interactive Component:**
 
-```jsx
+```js
 const OceanCard = ({ name, area, depth }) => (
   <div style={{ border: '1px solid #0080ff', padding: '1rem', margin: '1rem 0', backgroundColor: '#e0f7ff' }}>
     <h3>{name}</h3>
@@ -155,7 +155,7 @@ Source: FAO, 2020
 
 **JSX Tree Component:**
 
-```jsx
+```js
 const TreeCard = ({ type, region, age }) => (
   <div style={{ border: '1px solid green', padding: '1rem', margin: '1rem 0' }}>
     <h3>{type}</h3>
@@ -191,7 +191,7 @@ Biodiversity ensures ecological balance and resilience.
 
 **JSX Animal Card:**
 
-```jsx
+```js
 const AnimalCard = ({ name, status, habitat }) => (
   <div style={{ border: '1px solid #ff9933', padding: '1rem', margin: '1rem 0' }}>
     <h3>{name}</h3>
@@ -240,7 +240,7 @@ Plant native trees, reduce plastic use, and support wildlife reserves.
 
 **Interactive JSX Counter Example:**
 
-```jsx
+```js
 import { useState } from 'react';
 
 const ConservationCounter = () => {
@@ -262,7 +262,7 @@ const ConservationCounter = () => {
 
 **Embedding a Map Component:**
 
-```jsx
+```js
 const MapComponent = () => (
   <iframe
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.019!2d144.9631!3d-37.8136"
@@ -279,12 +279,10 @@ const MapComponent = () => (
 
 **Embedding Video:**
 
-```mdx
 <video controls width="600">
   <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
-```
 
 ***
 
