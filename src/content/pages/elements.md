@@ -257,10 +257,4 @@ The deep ocean remains one of Earth’s last frontiers. With advances in robotic
 
 ***
 
-# References
-
-1. Woods Hole Oceanographic Institution
-2. NOAA Ocean Exploration
-3. Marine Biology Journal
-4. Deep Sea Research Publications
-5. National Geographic: Deep Ocean
+1.
