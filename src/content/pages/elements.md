@@ -200,7 +200,7 @@ This is a simple note.
 
 ### Image
 
-![image](/images/image-placeholder.png)
+![image](/images/og-image.png)
 
 ***
 
