@@ -7,6 +7,4 @@ draft: false
 ---
 # Deep Ocean Chronicles: A Comprehensive Markdown + MDX Documen
 
-***
-
 ​
