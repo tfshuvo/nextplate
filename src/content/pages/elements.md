@@ -5,6 +5,6 @@ description: this is meta description
 image: ''
 draft: false
 ---
-# Deep Ocean Chronicles: A Comprehensive Markdown + MDX Documen
+# Deep Ocean Chronicles
 
 ​
