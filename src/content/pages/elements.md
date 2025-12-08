@@ -25,3 +25,5 @@ A massive, content-rich document containing full Markdown syntax, HTML-in-MDX, J
 | 7 | 8 | 9 | 01 | 11 | 21 |
 
 ​
+
+![auth-plate-logo.png](/images/auth-plate-logo.png)
