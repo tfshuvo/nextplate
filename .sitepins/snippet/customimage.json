@@ -1,0 +1,5 @@
+{
+  "label": "CustomImage",
+  "schema": [],
+  "code": "<CustomImage alt=\"Logo\" src=\"1ogo.png\" width={150} />"
+}
