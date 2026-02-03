@@ -1,0 +1,7 @@
+{
+  "label": "CustomImage",
+  "schema": [
+    "authors"
+  ],
+  "code": "<CustomImage  src=\"http:www.facebook.com\" /> "
+}
