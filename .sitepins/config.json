@@ -1,9 +1,18 @@
 {
-  "media": "public/images",
   "content": "src/content",
+  "media": "public/images",
+  "public": "",
   "configs": [
     "src/config"
   ],
-  "arrangement": [],
-  "custom-commit": false
+  "custom-commit": false,
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "src/content",
+      "groupName": "Test",
+      "include": ".md",
+      "exclude": ""
+    }
+  ]
 }
