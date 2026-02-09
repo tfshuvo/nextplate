@@ -9,8 +9,8 @@
   "arrangement": [
     {
       "type": "folder",
-      "targetPath": "src/content",
-      "groupName": "Test",
+      "targetPath": "src",
+      "groupName": "content",
       "include": ".md",
       "exclude": ""
     }
