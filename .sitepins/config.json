@@ -1,6 +1,6 @@
 {
   "content": "src/content",
-  "media": "public",
+  "media": "public/images",
   "public": "public",
   "configs": [
     "src/config"
