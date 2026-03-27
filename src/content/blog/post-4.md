@@ -2,7 +2,7 @@
 title: "How to build an Application with modern Technology"
 meta_title: ""
 description: "this is meta description test"
-date: 2026-03-27T11:14:58.438Z
+date: 2020-01-01T11:14:00.000Z
 image: "/images/image-placeholder.png"
 categories:
   - Architecture
