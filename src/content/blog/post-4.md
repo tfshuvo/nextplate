@@ -2,7 +2,7 @@
 title: "How to build an Application with modern Technology"
 meta_title: ""
 description: "this is meta description test"
-date: 2014-12-14T05:00:00.000Z
+date: 2026-03-27T11:11:42.870Z
 image: "/images/image-placeholder.png"
 categories:
   - Architecture
@@ -26,4 +26,4 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ​
 
-Update th content to reflect the latest changes. Now?ew information should be incorporated to ensure accuracy.
+Update th content to reflect the latest changes. Now?ew information should be incorporated to ensure accuracy. now change something
