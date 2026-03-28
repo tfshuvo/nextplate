@@ -2,7 +2,7 @@
 title: "How to build an Application with modern Technology"
 meta_title: ""
 description: "this is meta description test"
-date: 2020-01-01T11:14:00.000Z
+date: 2026-03-28T03:24:21.276Z
 image: "/images/image-placeholder.png"
 categories:
   - Architecture
@@ -30,4 +30,4 @@ Update th content to reflect the latest changes. Now?ew information should be in
 
 ​
 
-changed something…
+changed something… gg
