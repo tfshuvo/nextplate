@@ -2,7 +2,7 @@
 title: "How to build an Application with modern Technology"
 meta_title: ""
 description: "this is meta description test"
-date: 2026-03-28T03:24:21.276Z
+date: 2020-01-01T03:24:00.000Z
 image: "/images/image-placeholder.png"
 categories:
   - Architecture
@@ -11,6 +11,7 @@ tags:
   - silicon
   - technology
 draft: false
+last_update: 2026-03-28T04:08:30.544Z
 ---
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
@@ -30,4 +31,8 @@ Update th content to reflect the latest changes. Now?ew information should be in
 
 ​
 
-changed something… gg
+changed something…
+
+​
+
+changed&#x20;
