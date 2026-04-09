@@ -1,5 +1,5 @@
 {
   "label": "Youtube",
   "schema": [],
-  "code": "<Hllo  label=\"GG\"/>"
+  "code": "<figure className=\"my-4\">\n  <img src={src} className=\"rounded-xl\" />\n  {caption && (\n    <figcaption className=\"text-center text-sm text-gray-500 mt-2\">\n      {caption}\n    </figcaption>\n  )}\n</figure>"
 }
