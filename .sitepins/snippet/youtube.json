@@ -1,5 +1,5 @@
 {
   "label": "Youtube",
   "schema": [],
-  "code": "<CodeBlock title=\"app.js\">\n{`console.log(\"Hello world\");`}\n</CodeBlock>"
+  "code": ""
 }
